@@ -35,3 +35,32 @@ h1{
     background-position: right;
     margin-bottom: 20px;
 }
+.third-section{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    margin-bottom: 20px;
+}
+.flex-container{
+    display: flex;
+}
+.shadow-box{
+
+}
+#orange{
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-left: 7px solid orange ;
+}
+#blue{
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-left: 7px solid blue ;
+}
+footer p{
+    text-align: center;
+    margin-top: 150px;
+}
